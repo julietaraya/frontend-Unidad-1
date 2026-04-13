@@ -2,7 +2,7 @@ Uso de la IA
 
 Herramienta utilizada: ChatGPT, Copilot
 
-Fecha: 25/03 - 26/03
+Fecha: 25/03 - 13/04
 
 Prompt utilizado:
 
