@@ -32,7 +32,7 @@ const users = [
 
         function logout(){
             localStorage.removeItem("user");
-            window.location.href = "login.html";
+            window.location.href = "landing_page.html";
         }
 
         const user = JSON.parse(localStorage.getItem("user"));
