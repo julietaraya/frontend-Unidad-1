@@ -13,6 +13,7 @@ Prompt utilizado:
 5-"¿Por qué no se ve el color de fondo en mi código?"
 6- Cómo puedo hacer un contenedor para mi imagen de logo.
 7- como puedo cambiar el color de cuando se selecciona la caja de email y contraseña.
+8- Le consulté a chat gpt sobre como hacer el inicio de sesión de cada credencial con su respectivo correo y contraseña.
 
 Resultado generado: 
 
@@ -114,6 +115,9 @@ quité el padding de body que me estaba generando error. También tenía un erro
 6: agregué el resultado y lo modifiqué en mi código.
 
 7: agregué input de formulario en css como se indicó y cambié los colores.
+
+8: Se usó todo el código entregado por la IA en login.js y sessions.js, aparte de algunos ajustes necesarios en cada dashboard para que pudiera funcionar correctamente el código sin errores.
+
 
 Justificación:
 
